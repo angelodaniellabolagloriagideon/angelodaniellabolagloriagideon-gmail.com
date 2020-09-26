@@ -1,6 +1,8 @@
 # Welcome 
 
 git init
+plain text
+
 
 git add filename 
 
